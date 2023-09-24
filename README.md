@@ -10,3 +10,9 @@ SAVED was created using Flutter and Dart, Firebase cloud database, and Android S
 4. Enter the OTP when requested.
 5. If the OTP is matched, it will automatically direct you to the home screen.
 6. Explore the application and learn by actively using it.
+
+## Links
+Screenshots: https://drive.google.com/drive/folders/1VlVquYGfEWpMRSyqunzIxwL06prKI-xe?usp=sharing
+
+## The motivation behind its creation
+The Survival Assistance for a Variety of Emergencies and Disasters mobile application has been developed with a clear mission: to provide users with essential knowledge and guidance during times of crisis. Its creation is driven by the understanding of the Philippine unpredictable nature of emergencies and disasters here, and the critical need for accessible, reliable information to ensure individual and community safety. This user-friendly app serves as a comprehensive resource hub, offering valuable insights and actionable steps for a wide range of emergency situations, from natural disasters to man-made crises. This app serves as a vital tool for promoting preparedness and resilience and embodies a commitment to harnessing technology for the greater good, helping users stay informed, stay safe, and emerge from emergencies with confidence.
